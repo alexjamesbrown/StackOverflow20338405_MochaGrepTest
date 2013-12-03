@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "mocha": "*",
+        "assert": "1"
+    }
+}
